@@ -4,7 +4,7 @@
 
 target/shipwreck-app-1.0-SNAPSHOT.war
 
-## Configure Ec2 Jenkins Ubuntu
+## Configure Ec2 Jenkins Ubuntu  
 
 To Install Java
 ----------------
