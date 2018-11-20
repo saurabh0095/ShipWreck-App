@@ -1,4 +1,4 @@
-# ShipWreck App ![Travis](https://api.travis-ci.org/phystem/ShipWreck-App.svg)
+# ShipWreck App ![Travis](https://api.travis-ci.org/phystem/ShipWreck-App.svg) 
 
 ## War File BuildName
 
